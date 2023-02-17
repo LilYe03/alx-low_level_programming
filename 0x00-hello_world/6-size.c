@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
+ * This program prints the size of various types in bytes
  *
  * Return: Always 0 (Success)
 */
