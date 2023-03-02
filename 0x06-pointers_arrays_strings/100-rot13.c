@@ -3,7 +3,7 @@
 
 /**
  * rot13 - encoder rot13
- * @s: pointer to the string params
+ * @s: pointer to the string
  *
  * Return: *s
  */
