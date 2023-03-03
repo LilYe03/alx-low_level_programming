@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/**
+ * main - I don't know
+ * @n: first
+ * @a[5]: second
+ * @*p: third
+ * Return: 0.
+ */
+
 int main(void)
 {
 	int n;
